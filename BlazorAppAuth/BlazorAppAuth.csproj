@@ -20,4 +20,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.12" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BlazorAppAuth.Library\BlazorAppAuth.Library.csproj" />
+  </ItemGroup>
+
 </Project>

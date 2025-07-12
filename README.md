@@ -12,3 +12,13 @@ How to build:
 ```
 dotnet build BlazorAppAuth
 ```
+
+Run migrations:
+```
+dotnet ef database update
+```
+
+Create a new migration:
+```
+ dotnet ef migrations add MigrationName
+```
