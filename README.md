@@ -1,3 +1,5 @@
+A sample blazora app
+
 How to run the demo:
 ```
 dotnet run --project BlazorAppAuth
